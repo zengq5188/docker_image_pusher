@@ -13,3 +13,5 @@ jellyfin/jellyfin:latest
 linuxserver/plex:latest
 lovechen/embyserver:latest
 seafileltd/seafile:latest
+wahyd4/aria2-ui:latest
+p3terx/aria2-pro:latest
