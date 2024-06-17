@@ -18,3 +18,4 @@ wahyd4/aria2-ui:latest
 p3terx/aria2-pro:latest
 advplyr/audiobookshelf:latest
 talebook/talebook:latest
+linuxserver/heimdall:latest
