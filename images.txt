@@ -24,5 +24,5 @@ chenhw2/aliyun-ddns-cli:latest
 johnshine/baidunetdisk-crossover-vnc:latest
 johngong/baidunetdisk:latest
 registry:latest
-outlovecn/portainer-cn
-6053537/portainer-ce
+outlovecn/portainer-cn:latest
+6053537/portainer-ce:latest
