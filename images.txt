@@ -19,3 +19,4 @@ p3terx/aria2-pro:latest
 advplyr/audiobookshelf:latest
 talebook/talebook:latest
 linuxserver/heimdall:latest
+0nlylty/dockercopilot:latest
