@@ -25,3 +25,4 @@ johnshine/baidunetdisk-crossover-vnc:latest
 johngong/baidunetdisk:latest
 registry:latest
 outlovecn/portainer-cn:latest
+6053537/portainer-ce:latest
