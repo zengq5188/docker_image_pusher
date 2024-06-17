@@ -18,8 +18,5 @@ p3terx/aria2-pro:latest
 advplyr/audiobookshelf:latest
 linuxserver/heimdall:latest
 0nlylty/dockercopilot:latest
-chenhw2/aliyun-ddns-cli:latest
-johngong/baidunetdisk:latest
-registry:latest
 outlovecn/portainer-cn:latest
 6053537/portainer-ce:latest
