@@ -12,3 +12,4 @@ francescou/docker-compose-ui:latest
 jellyfin/jellyfin:latest
 linuxserver/plex:latest
 lovechen/embyserver:latest
+seafileltd/seafile:latest
