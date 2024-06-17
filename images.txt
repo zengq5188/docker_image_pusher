@@ -22,3 +22,4 @@ linuxserver/heimdall:latest
 0nlylty/dockercopilot:latest
 chenhw2/aliyun-ddns-cli:latest
 johnshine/baidunetdisk-crossover-vnc:latest
+johngong/baidunetdisk:latest
