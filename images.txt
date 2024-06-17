@@ -18,4 +18,3 @@ p3terx/aria2-pro:latest
 advplyr/audiobookshelf:latest
 linuxserver/heimdall:latest
 6053537/portainer-ce:latest
-0nlylty/dockercopilot:latest
