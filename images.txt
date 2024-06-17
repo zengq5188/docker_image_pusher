@@ -10,14 +10,12 @@ funcman/115pc:latest
 portainer/portainer-ce:latest
 francescou/docker-compose-ui:latest
 jellyfin/jellyfin:latest
-Nyanmisaka/jellyfin:latest
 linuxserver/plex:latest
 lovechen/embyserver:latest
 seafileltd/seafile:latest
 wahyd4/aria2-ui:latest
 p3terx/aria2-pro:latest
 advplyr/audiobookshelf:latest
-talebook/talebook:latest
 linuxserver/heimdall:latest
 0nlylty/dockercopilot:latest
 chenhw2/aliyun-ddns-cli:latest
