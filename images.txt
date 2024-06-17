@@ -23,3 +23,4 @@ linuxserver/heimdall:latest
 chenhw2/aliyun-ddns-cli:latest
 johnshine/baidunetdisk-crossover-vnc:latest
 johngong/baidunetdisk:latest
+registry:latest
