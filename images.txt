@@ -10,3 +10,5 @@ funcman/115pc:latest
 portainer/portainer-ce:latest
 francescou/docker-compose-ui:latest
 jellyfin/jellyfin:latest
+linuxserver/plex:latest
+lovechen/embyserver:latest
