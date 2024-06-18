@@ -19,3 +19,4 @@ advplyr/audiobookshelf:latest
 linuxserver/heimdall:latest
 6053537/portainer-ce:latest
 chenhw2/aliyun-ddns-cli:latest
+johngong/baidunetdisk:latest
