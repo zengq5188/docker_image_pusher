@@ -22,3 +22,4 @@ chenhw2/aliyun-ddns-cli:latest
 johngong/baidunetdisk:latest
 gdy666/lucky:latest
 nastool/nas-tools
+tzuhsiao/baidunetdisk:latest
