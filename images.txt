@@ -22,3 +22,4 @@ chenhw2/aliyun-ddns-cli:latest
 gdy666/lucky:latest
 nastool/nas-tools
 smokserwis/filemanager
+jlesage/firefox
