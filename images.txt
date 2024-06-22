@@ -21,4 +21,3 @@ linuxserver/heimdall:latest
 chenhw2/aliyun-ddns-cli:latest
 gdy666/lucky:latest
 nastool/nas-tools
-tzuhsiao/baidunetdisk:latest
