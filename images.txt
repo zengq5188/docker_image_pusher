@@ -24,5 +24,6 @@ nastool/nas-tools
 smokserwis/filemanager
 jlesage/firefox
 cleverest/crproxy:latest
-v2ray/official
-dreamacro/clash
+v2ray/official:latest
+dreamacro/clash:latest
+haishanh/yacd:latest
