@@ -23,3 +23,4 @@ gdy666/lucky:latest
 nastool/nas-tools
 smokserwis/filemanager
 jlesage/firefox
+cleverest/crproxy:latest
