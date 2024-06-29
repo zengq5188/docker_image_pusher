@@ -24,3 +24,4 @@ nastool/nas-tools
 smokserwis/filemanager
 jlesage/firefox
 cleverest/crproxy:latest
+v2ray/official
