@@ -20,9 +20,9 @@ linuxserver/heimdall:latest
 6053537/portainer-ce:latest
 chenhw2/aliyun-ddns-cli:latest
 gdy666/lucky:latest
-nastool/nas-tools
-smokserwis/filemanager
-jlesage/firefox
+nastool/nas-tools:latest
+smokserwis/filemanager:latest
+jlesage/firefox:latest
 cleverest/crproxy:latest
 v2ray/official:latest
 dreamacro/clash:latest
