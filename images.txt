@@ -27,5 +27,3 @@ cleverest/crproxy:latest
 v2ray/official:latest
 dreamacro/clash:latest
 haishanh/yacd:latest
-docker.io/xiuxiu10201/115:latest
-ghcr.io/dream10201/115docker:latest
